@@ -1,2 +1,2 @@
-# nci-spl
-A Drupal-based website for the Metastatic Niche symposium.
+# nci-cct-business-of-science
+A Drupal-based event registration website for the NCI-CCT.
