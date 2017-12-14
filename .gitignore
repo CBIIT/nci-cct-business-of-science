@@ -1,0 +1,26 @@
+# OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+# Ignore configuration files
+settings.php
+*settings.php*
+
+# Ignore paths that contain generated content.
+files/
+*files/
+private/
+*private/
+files/js/
+files/js/*
+files/css/
+files/css/*
+deployment-date.txt
+version.txt
+
+# Ignore default text files
+robots.txt
+README.txt
+*README.txt
+LICENSE.txt
+*LICENSE.txt
